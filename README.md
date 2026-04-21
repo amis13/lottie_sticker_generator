@@ -1,4 +1,4 @@
-# Lottie Stickers WhatsApp Bot
+# lottie_sticker_generator bot
 
 Bot de WhatsApp (Baileys) que convierte cualquier imagen que le mandes en un **sticker Lottie animado gigante (9999×9999)** con el dino llorón `Chomp_BigCry` encima.
 
