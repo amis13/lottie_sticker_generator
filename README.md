@@ -81,9 +81,6 @@ lottie_stickers/
 │       ├── animation.json.trust_token            # Firma del Core
 │       ├── animation_secondary.json              # Effect: tiene el slot base64 para tu foto
 │       └── animation_secondary.json.trust_token  # Firma del Effect
-├── backup_plantilla_pedrozz/       # Backup de la plantilla original de Pedrozz (Chomp_Hmm)
-├── chomp_llorando/                 # Sticker oficial descargado (sin modificar)
-│   └── animation/ ...
 ├── build_effect.js                 # Regenera el Effect con N copias de tu imagen rotando (efecto "tiled")
 ├── extractor.js                    # Descarga todos los stickers del pack Chomp de WA
 ├── extractor_cry.js                # Descarga sólo el Chomp llorando
